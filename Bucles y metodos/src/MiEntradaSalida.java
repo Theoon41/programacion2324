@@ -55,4 +55,15 @@ public class MiEntradaSalida {
         }while (sn != 'S' && sn != 'N');
         return sn;
     }
+    public static boolean primo (int a){
+        boolean primo = true;
+        for (int i = 2; i <= a / 2; i++) {
+            if (a % i == 0) {
+                System.out.printf("El número %d es divisor de %d. ", i, a);
+                primo = false;
+                break;
+            }
+        }
+        return primo;
+    }
 }

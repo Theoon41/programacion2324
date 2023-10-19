@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ad45ea-2659-4e30-91e2-8290a7d7f992" name="Changes" comment="">
+    <list default="true" id="67dad9d1-1422-488b-801f-9d2f5dbfa6f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BucleDoWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +20,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2W1aWbLhAFsJJL7wSjzZVCBS8vW" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2WvY2lYbzoMPDci7CEiFGIe470N" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,17 +33,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/juanf/Desktop/DAM1/Programación/Boletín 1.2"
+    "last_opened_file_path": "C:/Users/juanf/Desktop/DAM1/Programación/Bucles"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="47ad45ea-2659-4e30-91e2-8290a7d7f992" name="Changes" comment="" />
-      <created>1695902574979</created>
+      <changelist id="67dad9d1-1422-488b-801f-9d2f5dbfa6f8" name="Changes" comment="" />
+      <created>1697614315804</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695902574979</updated>
+      <updated>1697614315804</updated>
     </task>
     <servers />
   </component>

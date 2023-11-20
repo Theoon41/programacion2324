@@ -66,4 +66,16 @@ public class MiEntradaSalida {
         }
         return primo;
     }
+    public static int [] burbuja(int []a){
+        int aux;
+        for (int i; i<a.length; i++){
+            for(int j; j<a.length; j++){
+                if (a[j]>a[j+1]){
+                    aux = a[j];
+                    a[j] = a[j+1];
+                    a[j+1]=aux;
+                }
+            }
+        }
+    }
 }

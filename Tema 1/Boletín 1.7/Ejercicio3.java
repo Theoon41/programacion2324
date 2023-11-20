@@ -3,7 +3,7 @@ import app.MiEntradaSalida;
 import java.util.Scanner;
 
 
-public class Ejercicio2 {
+public class Ejercicio3 {
     final static int M_VALUE = 1000;
     final static int D_VALUE = 500;
     final static int C_VALUE = 100;
@@ -27,7 +27,7 @@ public class Ejercicio2 {
                 lastVal = digitVal;
             }else{
                 if (lastVal >=digitVal){
-                    valD = lastVal;
+                    valD += lastVal;
                     lastVal = digitVal;
                 }else{
                     valD += digitVal -lastVal;

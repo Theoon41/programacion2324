@@ -1,8 +1,7 @@
 public class Ejercicio7 {
     public static void main(String[] args) {
-        int[][] matrizA = {{2, 4}, {1, 2}};
-        int[][] matrizB = {{2, 4}, {1, 2}};
-
+        int[][] matrizA = {{2, 9}, {1, 2, 9}};
+        int[][] matrizB = {{2, 9}, {1, 2}};
 
         if (sonIguales(matrizA, matrizB)) {
             System.out.println("Las matrices son iguales");
@@ -10,17 +9,15 @@ public class Ejercicio7 {
         } else {
             System.out.println("No coinciden los valores");
         }
-
     }
-        public static boolean sonIguales (int[][] a, int[][] b){
-        boolean iguales = false;
-        if (a.length==b.length && a[0].length==b[0].length){
-            for (int i=0; i<a.length; i++){
-                for (int j=0; j<a[i].length; j++){
-                    iguales = a[i][j] == b[i][j];
-                }
-            }
+    public static boolean sonIguales (int[][] a, int[][] b){
+        boolean iguales = a.length==b.length;
 
+        for (int i=0; iguales && i<a.length; i++){
+            iguales = a[i].length == b[i].length;
+            for (int j=0; iguales && j<a[i].length; j++){
+                iguales = a[i][j] == b[i][j];
+            }
         }
         return iguales;
     }

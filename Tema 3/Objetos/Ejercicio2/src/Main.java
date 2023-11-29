@@ -1,4 +1,4 @@
-import Objeto.Cuenta;
+package Ejercicio2.src;
 
 import java.util.Scanner;
 

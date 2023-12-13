@@ -10,7 +10,7 @@ public class Main {
         Cuenta c = new Cuenta(saldoInicial);
         int opcion;
         boolean salir = false;
-        int siONo = 0;
+        int siONo;
         do {
             menu();
             do {

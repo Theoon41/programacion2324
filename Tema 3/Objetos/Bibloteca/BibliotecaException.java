@@ -1,2 +1,7 @@
-package Bibloteca;public class ExcepcinesBiblioteca {
+package Bibloteca;
+
+public class BibliotecaException extends Exception {
+    public BibliotecaException (String mensaje){
+        super(mensaje);
+    }
 }

@@ -1,3 +1,5 @@
+package ExResuelto;
+
 public class Pixel {
     private int r, g, b;
     private boolean vivo;

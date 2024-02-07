@@ -1,4 +1,5 @@
-import javax.swing.*;
+package ExResuelto;
+
 import java.util.Random;
 
 public class Televisor {

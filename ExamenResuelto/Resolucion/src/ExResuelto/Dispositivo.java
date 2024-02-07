@@ -1,3 +1,5 @@
+package ExResuelto;
+
 public class Dispositivo {
     private String nombre;
     private String protocolo;

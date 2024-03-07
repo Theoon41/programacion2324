@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70e72d2e-c157-4086-b0da-eded5a0e77bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/Listas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio1/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio1/Equipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio1/EquipoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio2/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio2/Equipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio2/EquipoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio3/AlfabeticoComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio3/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio3/Excepciones/MensajeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio3/Mensaje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio3/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Tema 6/Listas/src/Boletin6_1/Ejercicio3/Profesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles y metodos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles y metodos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles y metodos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles y metodos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles y metodos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles y metodos/Bucles y metodos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles y metodos/src/BucleDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles y metodos/src/BucleFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles y metodos/src/BucleWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles y metodos/src/MiEntradaSalida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles/.idea/Bucles.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bucles/BucleDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/Examen.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/src/Examen/Dispositivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/src/Examen/DispositivoNoCompatibleException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/src/Examen/Imagen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/src/Examen/Pixel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/src/Examen/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen/src/Examen/Televisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/Resolucion/Resolucion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/Resolucion/src/ExResuelto/Dispositivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/Resolucion/src/ExResuelto/DispositivoNoCompatibleException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/Resolucion/src/ExResuelto/Imagen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/Resolucion/src/ExResuelto/Pixel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/Resolucion/src/ExResuelto/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamenResuelto/Resolucion/src/ExResuelto/Televisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JuanFranciscoMerinoPereira_examen objetos.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/.idea/Boletín 1.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio 1.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio 2.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio 3.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio 4.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio 5.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio 6.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio 7.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio 8.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/Ejercicio9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/.idea/Boletín 1.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio 1.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio 2.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio 3.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio 4.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio 5.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio 6.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio 7.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio 8.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.1/out/production/Boletín 1.1/Ejercicio9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/.idea/Boletín 1.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Boletin12/Boletin12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 1/Ejercicio 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 10.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 11.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 6.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 7.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio 8.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/Ejercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/.idea/Boletín 1.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/Ejercicio 10.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/Ejercicio 11.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/Ejercicio 6.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/Ejercicio 7.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/Ejercicio 8.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/Ejercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/Ejercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/Ejercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.2/out/production/Boletín 1.2/Ejercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4 V2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4 V2/.idea/Boletín 1.4 V2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4 V2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4 V2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4 V2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4 V2/Ejercicio10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4 V2/Ejercicio9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/Boletín 1.4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/EjercicioRandom1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/EjercicioRandom2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/EjercicioRandom3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/EjercicioRandom4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/EjercicioRandom5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/out/production/Boletín 1.4/EjercicioRandom1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/out/production/Boletín 1.4/EjercicioRandom2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/out/production/Boletín 1.4/EjercicioRandom3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/out/production/Boletín 1.4/EjercicioRandom4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.4/out/production/Boletín 1.4/EjercicioRandom5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/.idea/Boletín 1.6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/Ejercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/Ejercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/Ejercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/Ejercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/Ejercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/Ejercicio8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/Ejercicio9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/.idea/Boletín 1.6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/Ejercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/Ejercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/Ejercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/Ejercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/Ejercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/Ejercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/Ejercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.6/out/production/Boletín 1.6/Ejercicio9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/.idea/Boletín 1.7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/.idea/libraries/MiEntradaSalida.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/Ejercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/Ejercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/out/production/Boletín 1.7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/out/production/Boletín 1.7/.idea/Boletín 1.7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/out/production/Boletín 1.7/.idea/libraries/MiEntradaSalida.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/out/production/Boletín 1.7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/out/production/Boletín 1.7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/out/production/Boletín 1.7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/out/production/Boletín 1.7/Ejercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/out/production/Boletín 1.7/Ejercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Boletín 1.7/out/production/Boletín 1.7/Ejercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Programación T1.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto 1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto 1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto 1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto 1/Proyecto 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto 1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto 1/src/ejemploErrores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto2/Proyecto2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 1/Proyecto2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/.idea/Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/.idea/libraries/MiEntradaSalida.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio10Modificado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/Ejercicio9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/RecorrerArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/.idea/Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/.idea/libraries/MiEntradaSalida.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio10Modificado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/Ejercicio9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Arrays/out/production/Arrays/RecorrerArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/.idea/Matrices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/Ejercicio9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/.idea/Matrices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 2/Matrices/out/production/Matrices/Ejercicio9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Bucles y metodos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Bucles y metodos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Bucles y metodos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Bucles y metodos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Bucles y metodos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Bucles y metodos/Bucles y metodos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Bucles y metodos/src/BucleDoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Bucles y metodos/src/BucleFor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Bucles y metodos/src/BucleWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Bucles y metodos/src/MiEntradaSalida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/.idea/Objetos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Bibloteca/Biblioteca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Bibloteca/BibliotecaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Bibloteca/Libro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Bibloteca/Prestamo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Bibloteca/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Bibloteca/Usuario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Cartas/Carta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Cartas/Juego.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Cartas/JuegoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Cartas/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Ejercicio2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Ejercicio2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Ejercicio2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Ejercicio2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Ejercicio2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Ejercicio2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Ejercicio2/Ejercicio2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Ejercicio2/src/Cuenta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/Ejercicio2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/EjercicioRandom/Avion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/EjercicioRandom/Deposito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/EjercicioRandom/ProgramaMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/EjercicioRandom/Revision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/MaquinaCafe/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/MaquinaCafe/Maquina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/MaquinaCafe/MaquinaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/MaquinaCafe/MiEntradaSalida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/MensajesPersona/Mensaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/MensajesPersona/MensajeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/MensajesPersona/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/MensajesPersona/Principal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/MiEntradaSalida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/.idea/Objetos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Bibloteca/Biblioteca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Bibloteca/BibliotecaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Bibloteca/Libro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Bibloteca/Prestamo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Bibloteca/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Bibloteca/Usuario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Cartas/Carta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Cartas/Juego.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Cartas/JuegoException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Cartas/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Ejercicio2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Ejercicio2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Ejercicio2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Ejercicio2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Ejercicio2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Ejercicio2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Ejercicio2/Ejercicio2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Ejercicio2/src/Cuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/Ejercicio2/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/EjercicioRandom/Avion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/EjercicioRandom/Deposito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/EjercicioRandom/ProgramaMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/EjercicioRandom/Revision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/MaquinaCafe/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/MaquinaCafe/Maquina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/MaquinaCafe/MaquinaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/MaquinaCafe/MiEntradaSalida.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/MensajesPersona/Mensaje.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/MensajesPersona/MensajeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/MensajesPersona/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/MensajesPersona/Principal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/MiEntradaSalida.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/Ejercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/Ejercicio10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/Ejercicio12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/Ejercicio2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/Ejercicio4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/Ejercicio5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/Ejercicio6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/Ejercicio7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/Ejercicio8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/Ejercicio9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/out/production/Objetos/untitled/src/Rectangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/Ejercicio10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/Ejercicio12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/Ejercicio4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/Ejercicio5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/Ejercicio6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/Ejercicio7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/Ejercicio8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/Ejercicio9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Objetos/untitled/src/Rectangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 3/Tema 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/.idea/Herencia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/.idea/libraries/MiEntradaSalida.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/extra.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio1/Cuenta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio1/CuentaCredicto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio1/CuentaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio1/MenuCuentaCredito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio2/Coche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio2/Combustible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio2/EmpresaAlquiler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio2/Furgoneta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio2/Gamma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio2/Microbus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio2/TipoVehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio2/Vehiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio2/VehiculoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio3/Clerigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio3/Mago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio3/Personaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio3/PersonajeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio3/Raza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio4/ejercicio3/Clerigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio4/ejercicio3/Mago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio4/ejercicio3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio4/ejercicio3/Personaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio4/ejercicio3/PersonajeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio4/ejercicio3/Raza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio5/Construccion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio5/Contrucciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio6/ejercicio3/ArrayP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio6/ejercicio3/Clerigo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio6/ejercicio3/CreableEstadisticas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio6/ejercicio3/Mago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio6/ejercicio3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio6/ejercicio3/Personaje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio6/ejercicio3/PersonajeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_1/ejercicio6/ejercicio3/Raza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio1/EsportsTournament.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio1/FPSGamer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio1/Gamer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio1/MOBAGamer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio1/SportsGamer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/Animable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/Canvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/CirculoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/CirculoMovible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/Dibujable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/Forma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/Linea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/LineaException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/RectanguloException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio2/Rectángulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio3/MP3Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio3/MusicApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio3/MusicPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio3/OfflineMusicPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio3/OnlineMusicPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio3/Spotify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/Boletin5_2/ejercicio3/iTunes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/ejemplo1/Hijo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/ejemplo1/PadreSimple1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/ejemplo2/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/ejemplo2/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/ejemplo2/MainAB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/extra/src/ejemplo2/deparcaciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio1/Cuenta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio1/CuentaCredicto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio1/CuentaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio1/MenuCuentaCredito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio2/Coche.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio2/Combustible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio2/EmpresaAlquiler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio2/Furgoneta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio2/Gamma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio2/Microbus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio2/TipoVehiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio2/Vehiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio2/VehiculoException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio3/Clerigo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio3/Mago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio3/Personaje.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio3/PersonajeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio3/Raza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio4/ejercicio3/Clerigo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio4/ejercicio3/Mago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio4/ejercicio3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio4/ejercicio3/Personaje.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio4/ejercicio3/PersonajeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio4/ejercicio3/Raza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio5/Construccion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio5/Contrucciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio6/ejercicio3/ArrayP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio6/ejercicio3/Clerigo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio6/ejercicio3/CreableEstadisticas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio6/ejercicio3/Mago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio6/ejercicio3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio6/ejercicio3/Personaje.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio6/ejercicio3/PersonajeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_1/ejercicio6/ejercicio3/Raza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio1/EsportsTournament.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio1/FPSGamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio1/Gamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio1/MOBAGamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio1/SportsGamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/Animable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/Canvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/Circulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/CirculoException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/CirculoMovible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/Dibujable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/Forma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/Linea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/LineaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/RectanguloException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/Boletin5_2/ejercicio2/Rectángulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/ejemplo1/Hijo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/ejemplo1/PadreSimple1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/ejemplo2/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/ejemplo2/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/ejemplo2/MainAB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tema 5/Herencia/out/production/extra/ejemplo2/deparcaciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/.idea/proyectoMatrices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/JuegoMatrices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/MiEntradaSalida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/out/production/proyectoMatrices/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/out/production/proyectoMatrices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/out/production/proyectoMatrices/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/out/production/proyectoMatrices/.idea/proyectoMatrices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/out/production/proyectoMatrices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/out/production/proyectoMatrices/JuegoMatrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/out/production/proyectoMatrices/MiEntradaSalida.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proyectoMatrices/proyectoMatrices.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2dDqtZy6QfOI91KowHIQeGeRnk4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/juanf/Desktop/DAM1/Programación/Ejercicios de CodeWars/Ejercicio 1-7kyu"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70e72d2e-c157-4086-b0da-eded5a0e77bd" name="Changes" comment="" />
+      <created>1709553211430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709553211430</updated>
+    </task>
+    <servers />
+  </component>
+</project>
